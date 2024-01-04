@@ -39,8 +39,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/> </a> 
-  <a href="https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html" target="_blank"><img src="https://img.icons8.com/officel/80/000000/regex.png" alt="Regex" width="50" height="50"/></a>  
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/> </a>  
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a>
@@ -49,14 +48,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
   <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/54087/nodejs" alt="nodejs" width="50" height="50"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/74402/mongodb" alt="mongodb" width="50" height="50"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/iWw83PVcBpLw/canva" alt="canvasjs" width="40" height="40"/> </a> 
-    
 </p>
   
   
