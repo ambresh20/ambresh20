@@ -27,23 +27,20 @@
 - ⚡ Fun fact **I think I am funny**
 
   <br> <br>
-  <h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/ambresh20" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="priyankeshraj" height="40" width="40" /></a>
-<a href="<a href="https://twitter.com/ambresh_20" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="<a href="href="https://twitter.com/ambresh_20" " target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ambresh-vaishya" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/19968165" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="priyankesh-raj" height="40" width="40" /></a>
 <a href="https://kaggle.com/ambresh20" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="priyankeshraj" height="40" width="40" /></a>
-<a href="https://fb.com/ambresh vaishya" target="blank"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" alt="priyankesh raj" height="40" width="40" /></a>
+<a href="https://www.facebook.com/ambresh.vaishy.5/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" alt="priyankesh raj" height="40" width="40" /></a>
 <a href="https://instagram.com/_ambresh20" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="priyankeshraj" height="40" width="40" /></a>
-<a href="[https://www.hackerrank.com/priyankeshraj](https://www.hackerrank.com/ambresh_vaishya)" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/ambresh_vaishya" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/ambresh20" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ambresh20" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="priyankeshraj" height="40" width="40" /></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/@ambresh20" 
 
 
 <h3 align="center">Languages and Tools:</h3>
