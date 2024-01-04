@@ -1,5 +1,4 @@
-<!--
-**ambresh20/ambresh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+<!-- **ambresh20/ambresh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...  -->
 
@@ -27,19 +26,42 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@ambresh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ambresh20" height="30" width="40" /></a>
-<a href="https://twitter.com/ambresh_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambresh_20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ambresh-vaishya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambresh-vaishya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19968165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19968165" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/settings?workspace=f3752adb-d606-49a9-a4ef-278748918669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/settings?workspace=f3752adb-d606-49a9-a4ef-278748918669" height="30" width="40" /></a>
-<a href="https://kaggle.com/ambresh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambresh20" height="30" width="40" /></a>
-<a href="https://instagram.com/_ambresh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ambresh20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ambresh_vaishya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ambresh_vaishya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ambresh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ambresh20" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ambresh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ambresh20" height="30" width="40" /></a>
+  <br> <br>
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/ambresh20" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="<a href="https://twitter.com/ambresh_20" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ambresh-vaishya" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/19968165" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="priyankesh-raj" height="40" width="40" /></a>
+<a href="https://kaggle.com/ambresh20" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://fb.com/ambresh vaishya" target="blank"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" alt="priyankesh raj" height="40" width="40" /></a>
+<a href="https://instagram.com/_ambresh20" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="[https://www.hackerrank.com/priyankeshraj](https://www.hackerrank.com/ambresh_vaishya)" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/ambresh20" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ambresh20" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="priyankeshraj" height="40" width="40" /></a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://codepen.io/@ambresh20" 
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/> </a> 
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.icons8.com/office/160/000000/selenium-test-automation.png" alt="Selenium" width="50" height="50"/> </a> 
+  <a href="https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html" target="_blank"><img src="https://img.icons8.com/officel/80/000000/regex.png" alt="Regex" width="50" height="50"/></a>  
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> 
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://img.icons8.com/color/144/000000/heroku.png" alt="Heroku" width="50" height="50"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> 
+  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/postgreesql.png" alt="postgresql" width="50" height="50"/> </a> 
+  <a href="https://neo4j.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-neo4j-a-graph-database-management-system-developed-logo-shadow-tal-revivo.png" alt="python" width="50" height="50"/> </a> </p>
+  
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
