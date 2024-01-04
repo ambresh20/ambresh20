@@ -30,7 +30,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/ambresh20" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="priyankeshraj" height="40" width="40" /></a>
-<a href="<a href="href="https://twitter.com/ambresh_20" " target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="<a href="href="https://twitter.com/ambresh_20" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ambresh-vaishya" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/19968165" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="priyankesh-raj" height="40" width="40" /></a>
 <a href="https://kaggle.com/ambresh20" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="priyankeshraj" height="40" width="40" /></a>
