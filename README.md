@@ -36,9 +36,6 @@
 <a href="https://auth.geeksforgeeks.org/user/ambresh20" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="ambresh20" height="40" width="50" /></a>
 </p>
 
-
-[![Ambresh GitHub stats](https://github-readme-stats.vercel.app/api?username=ambresh20&show_icons=true&theme=dark)](https://github.com/ambresh20)
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +55,9 @@
 ![Skill](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Skill](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Skill](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /> 
+  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
