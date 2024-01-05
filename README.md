@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](ambresh20.github.io/Portfolio/)
 - 💬 Ask me about **react and Javascript**
 - 📫 How to reach me **vaishyambresh@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1CtLWM5ivE83WA-A8v2GuljB1T4z7bdx9/view)
+<!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1CtLWM5ivE83WA-A8v2GuljB1T4z7bdx9/view) -->
 - ⚡ Fun fact **I think I am funny**
 
   <br> <br>
@@ -79,7 +79,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambresh20&" alt="ambresh20" /></p> 
 
+## Weather
 
+|  Today's weather | It's morning here!  |
+|:---:|:---:|
+| Temperature: <b>23&#176;C</b><br> Sun Rise: <b>06:38 AM</b><br> Sun Set: <b>06:06 PM</b><br> Weather: <b>mist</b> 
 
 
 
