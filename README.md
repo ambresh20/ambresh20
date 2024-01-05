@@ -38,7 +38,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-![Skill]()
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" /> 
@@ -57,9 +56,9 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> 
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /> 
   
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" /> 
+<img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" /> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" /> 
 
 ![Skill](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Skill](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
