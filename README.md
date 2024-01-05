@@ -37,6 +37,8 @@
 </p>
 
 
+[![Ambresh GitHub stats](https://github-readme-stats.vercel.app/api?username=ambresh20&show_icons=true&theme=dark)](https://github.com/ambresh20)
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
